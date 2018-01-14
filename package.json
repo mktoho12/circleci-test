@@ -8,8 +8,8 @@
   },
   "dependencies": {
     "mocha": "^4.1.0",
-    "pg": "^7.4.1",
-    "sequelize": "^4.31.2",
+    "pg": "^4.4.3",
+    "sequelize": "^3.31.0",
     "sqlite3": "^3.1.13"
   }
 }
